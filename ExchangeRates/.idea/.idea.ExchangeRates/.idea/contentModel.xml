@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Коленкин Василий\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Коленкин Василий\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ExchangeRates.212449438.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Коленкин Василий\source\repos\ExchageRatesPlatform" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="DbContext.cs" t="Include" />
+      <e p="DefaultCurrencyDataProvider.cs" t="Include" />
+      <e p="DefaultCurrencyService.cs" t="Include" />
+      <e p="ExchangeRatesPlatform.csproj" t="IncludeRecursive" />
+      <e p="ICurrencyDataProvider.cs" t="Include" />
+      <e p="ICurrencyService.cs" t="Include" />
+      <e p="Migrations" t="Include" />
+      <e p="Model" t="Include">
+        <e p="Currency.cs" t="Include" />
+        <e p="Rates.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="ExchangeRatesPlatform.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+    <e p="C:\Users\Коленкин Василий\source\repos\ExchangeRates" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ExchangeRates.csproj" t="IncludeRecursive" />
+      <e p="ExchangeRates.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="ExchangeRates.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\Коленкин Василий\source\repos\RateScheduler" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="RateScheduler.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="RateScheduler.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
